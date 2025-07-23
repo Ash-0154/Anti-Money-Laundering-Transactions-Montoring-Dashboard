@@ -165,6 +165,8 @@ On selecting a bank from a page (eg.Laundering Risk Summary), users can drill th
   
   <img width="683" height="360" alt="kpi tooltip eg" src="https://github.com/user-attachments/assets/8782d7b2-1338-413c-847d-ca814f3fbbd5" />
 
+  <img width="689" height="337" alt="visual tooltip eg" src="https://github.com/user-attachments/assets/43f13286-c3ba-48f5-9898-f4b1d5723fd1" />
+
 - Interactive bookmarks enabling scenario analysis and navigation
 
   <img width="588" height="335" alt="pg 1 insights" src="https://github.com/user-attachments/assets/8971e149-78cf-4da9-b0a7-0c86b8ab1e80" />
